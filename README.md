@@ -1,2 +1,2 @@
 # Instagram-Photo-Feed
-Project-Lesson-2-Instagramphotofeed-HTMLCSS
+## Project-Lesson-2-Instagramphotofeed-HTMLCSS
